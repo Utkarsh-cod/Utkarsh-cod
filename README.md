@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Utkarsh Agarwal
 
-<!--
-**Utkarsh-cod/Utkarsh-cod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AI/ML) student | 💻 Web Developer | 🤖 AI-ML Explorer  
+💡 Passionate about solving real-world problems through tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages**: C, Java, Python, JavaScript  
+- **Web**: HTML, CSS, JS, Node.js  
+- **AI/ML**: NumPy, Pandas (Basics)
+
+---
+
+## 🛠️ Projects
+- 🔐 **SafeRoute** – Smart navigation app for women's safety
+- 🧩 **Campus Connect** – College utilities website for students
+- 🧠 **Quiz Game** – Fun quiz in JS
+- 🏨 **Hotel Management System** – Java-based app
+
+---
+
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-agarwal-8b0342362/)
