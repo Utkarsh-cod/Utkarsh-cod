@@ -8,7 +8,6 @@
 ## 🚀 Tech Stack
 - **Languages**: C, Java, Python, JavaScript  
 - **Web**: HTML, CSS, JS, Node.js  
-- **AI/ML**: NumPy, Pandas (Basics)
 
 ---
 
