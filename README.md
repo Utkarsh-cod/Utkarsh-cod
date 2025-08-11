@@ -7,7 +7,7 @@
 
 ## 🚀 Tech Stack
 - **Languages**: C, Java, Python, JavaScript  
-- **Web**: HTML, CSS, JS, Node.js  
+- **Web**: HTML, CSS, JS 
 
 ---
 
