@@ -6,16 +6,40 @@
 ---
 
 ## 🚀 Tech Stack
-- **Languages**: Java, C, Python, JavaScript  
-- **Web**: HTML, CSS, JS 
+- **Languages:** Java, C, C++, Python, JavaScript
+- **Web & Backend:** HTML, CSS, JavaScript, Spring Boot, Hibernate, REST APIs, MySQL
+- **Core Concepts:** Data Structures & Algorithms, Time and Space Complexity, Operating System, Object-Oriented Programming, Problem Solving and Algorithms.
+- **Tools & ML:** Git, Docker, Postman, VS Code, Scikit-Learn, Jupyter
 
 ---
 
-## 🛠️ Projects
-- 🔐 **SafeRoute** – Smart navigation app for women's safety
-- 🧩 **Campus Connect** – College utilities website for students
-- 🧠 **Quiz Game** – Fun quiz in JS
-- 🏨 **Hotel Management System** – Java-based app
+## 🚀 Projects
+
+### 1. Smart Resume Analyzer  
+**Tech Stack:** Spring Boot, Java, NLP, MySQL, Docker  
+- Implemented an AI-powered resume analyzer using Spring Boot and NLP.  
+- Extracted candidate skills and performed evaluation for job matching.  
+
+---
+
+### 2. CareerPath AI Recommender  
+**Tech Stack:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib  
+- Built a machine learning-based career recommendation system.  
+- Identified suitable career paths and highlighted skill gaps for users.  
+
+---
+
+### 3. Campus Connect  
+**Tech Stack:** HTML, CSS, JavaScript  
+- Developed a centralized ERP portal for academic updates, notices, and campus utilities.  
+- Improved accessibility and streamlined communication for students and faculty.  
+
+---
+
+### 4. SafeRoute  
+**Tech Stack:** HTML, CSS, JavaScript  
+- Designed a safety-focused navigation platform addressing real-world security concerns.  
+- Integrated user-friendly interface for secure route planning.
 
 ---
 
